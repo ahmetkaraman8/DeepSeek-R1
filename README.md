@@ -1,12 +1,18 @@
 # DeepSeek-R1
 
 ## Gerekli Kütüphaneler
-`pip install together`
-`pip install Flask`
+```
+pip install together
+```
+```
+pip install Flask
+```
 
 ## API Key
 DeepSeek R1 modelini kullanmak için together.ai sitesine kayıt olunmalı. analyze.py, roadmap.py ve main.py dosyalarında bulunan,
-`client = Together(api_key="**********************************")`
+```python
+client = Together(api_key="**********************************")
+```
 kodundaki api_key bölümüne, together.ai sitesinden aldığınız API Key'i girmelisiniz. Eğer API Key almada sorun yaşarsanız, karaman.ahmet@std.izu.edu.tr adresine mail attığınız takdirde test sürecinde kullanmanız için kendi API Key'imi verebilirim.
 
 ## Dosyaların Görevleri:
