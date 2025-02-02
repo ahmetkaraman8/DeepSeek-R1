@@ -27,3 +27,5 @@ test klasörünün içerisindeki kodları inceler. Bu kodların görevlerinden y
 
 ## Önemli Not
 together.ai sitesinin ücretsiz üyeliklere sunduğu kredi $1.00 ile sınırlıdır. Bu nedenle kodlarda yapay zekanın kullanabileceği maksimum token miktarını kısıtlı tutmam gerekti. Bu yüzden de yapay zekanın yaptığı yorumlar yarıda kesilebilir. Yarıda kesilmesine rağmen yaptığı tahmin ve yorumların doğru olduğunu görebilirsinz. Eğer daha tutarlı sonuçlar görmek isterseniz max_tokens değerlerini arttırabilirsiniz ancak together.ai sitesinde ücretsiz olarak kullanabileceğimiz kredi miktarının sınırlı olduğunu unutmayın.
+
+Bu kodlar DeepSeek R1 modelini kodlarımıza entegre ederek yapabileceklerimizin küçük bir kısmını göstermektedir. Daha çok emek vererek bu modeli çok daha etkili kullanabiliriz. Ayrıca modeli indirerek localde çalıştırmak, bizi token kısıtlamalarından da kurtaracaktır.
